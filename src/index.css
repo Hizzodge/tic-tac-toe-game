@@ -178,7 +178,7 @@ ol {
   height: 8rem;
   border: none;
   background: #aca788;
-  color: #3f3b00;
+  color: #210574;
   font-size: 5rem;
   cursor: pointer;
   font-family: 'Caprasimo', cursive;
@@ -317,15 +317,15 @@ ol {
 
 @keyframes pulse {
   0% {
-    border-color: #f6e35a;
+    border-color: #625af6;
     box-shadow: 0 0 0 0 rgba(246, 227, 90, 0.4);
   }
   50% {
-    border-color: #f8c031;
+    border-color: #e1dfd8;
     box-shadow: 0 0 0 0.5rem rgba(248, 165, 49, 0);
   }
   100% {
-    border-color: #f6e35a;
+    border-color: #8460d3;
     box-shadow: 0 0 0 0 rgba(246, 227, 90, 0);
   }
 }
